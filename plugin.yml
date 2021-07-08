@@ -1,0 +1,8 @@
+name: CustomShovel
+version: 1.0
+author: Matt
+main: fr.matt.customshovel.main
+commands:
+  customshovel:
+    permission: customshovel.use
+    description: Give a CustomShovel
